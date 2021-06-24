@@ -1,0 +1,2 @@
+(this["webpackJsonp@coreui/coreui-free-react-admin-template"]=this["webpackJsonp@coreui/coreui-free-react-admin-template"]||[]).push([[1],{890:function(e,t,a){"use strict";a.r(t);var r=a(29),n=a(30),c=a(32),i=a(31),o=a(1),u=a(2),p=function(e){Object(c.a)(a,e);var t=Object(i.a)(a);function a(){return Object(r.a)(this,a),t.apply(this,arguments)}return Object(n.a)(a,[{key:"render",value:function(){return window.location.href="http://badabazarr.com/aboutUs.php",Object(u.jsx)(u.Fragment,{})}}]),a}(o.Component);t.default=p}}]);
+//# sourceMappingURL=1.b76fcb3b.chunk.js.map

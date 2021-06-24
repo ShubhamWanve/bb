@@ -1,0 +1,2 @@
+(this["webpackJsonp@coreui/coreui-free-react-admin-template"]=this["webpackJsonp@coreui/coreui-free-react-admin-template"]||[]).push([[3],{891:function(e,t,r){"use strict";r.r(t),r.d(t,"default",(function(){return s}));var n=r(29),c=r(30),a=r(32),i=r(31),u=r(1),o=r(2),s=function(e){Object(a.a)(r,e);var t=Object(i.a)(r);function r(){return Object(n.a)(this,r),t.apply(this,arguments)}return Object(c.a)(r,[{key:"render",value:function(){return Object(o.jsx)("div",{children:"ChangePassword"})}}]),r}(u.Component)}}]);
+//# sourceMappingURL=3.87666c00.chunk.js.map

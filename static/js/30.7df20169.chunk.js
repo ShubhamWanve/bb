@@ -1,0 +1,2 @@
+(this["webpackJsonp@coreui/coreui-free-react-admin-template"]=this["webpackJsonp@coreui/coreui-free-react-admin-template"]||[]).push([[30],{901:function(e,t,c){"use strict";c.r(t);var r=c(29),n=c(30),a=c(32),i=c(31),u=c(1),o=c(2),s=function(e){Object(a.a)(c,e);var t=Object(i.a)(c);function c(){return Object(r.a)(this,c),t.apply(this,arguments)}return Object(n.a)(c,[{key:"render",value:function(){return Object(o.jsx)("div",{children:Object(o.jsx)("h1",{children:"Cashback receive"})})}}]),c}(u.Component);t.default=s}}]);
+//# sourceMappingURL=30.7df20169.chunk.js.map
